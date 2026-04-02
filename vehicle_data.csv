@@ -1,0 +1,101 @@
+VehicleID,LicensePlate,Make,Model,Color
+1,RBU-9765,Ford,Focus,Silver
+2,HTX-2219,Toyota,Corolla,Blue
+3,PLD-8831,Honda,Civic,Red
+4,MWQ-5520,Nissan,Altima,White
+5,QTR-1198,Chevrolet,Malibu,Black
+6,ASX-4421,Hyundai,Elantra,Gray
+7,BNM-7712,Kia,Optima,Blue
+8,CKP-9921,Tesla,Model 3,White
+9,DRS-6610,BMW,330i,Black
+10,EFG-5529,Audi,A4,Silver
+11,GHT-2201,Ford,Fusion,Gray
+12,HJU-1190,Toyota,Camry,White
+13,IKL-8832,Honda,Accord,Blue
+14,JMN-7713,Nissan,Sentra,Red
+15,KOP-9922,Chevrolet,Impala,Black
+16,LMQ-6611,Hyundai,Sonata,Silver
+17,MNR-5521,Kia,Sorento,Gray
+18,NOQ-2202,Tesla,Model Y,Blue
+19,OPR-1191,BMW,X3,White
+20,PST-8833,Audi,Q5,Black
+21,QRU-7714,Ford,Escape,Red
+22,RSV-9923,Toyota,RAV4,Silver
+23,STW-6612,Honda,CR-V,Blue
+24,TUX-5522,Nissan,Rogue,Gray
+25,UVW-2203,Chevrolet,Traverse,White
+26,VWX-1192,Hyundai,Tucson,Black
+27,WXY-8834,Kia,Sportage,Blue
+28,XYZ-7715,Tesla,Model S,Red
+29,YZA-9924,BMW,528i,Silver
+30,ZAB-6613,Audi,A6,Black
+31,ABC-5523,Ford,Mustang,Red
+32,BCD-2204,Toyota,Prius,White
+33,CDE-1193,Honda,Fit,Blue
+34,DEF-8835,Nissan,Leaf,Gray
+35,EFG-7716,Chevrolet,Cruze,Black
+36,FGH-9925,Hyundai,Kona,Silver
+37,GHI-6614,Kia,Stinger,Red
+38,HIJ-5524,Tesla,Model X,White
+39,IJK-2205,BMW,X5,Black
+40,JKL-1194,Audi,Q7,Blue
+41,KLM-8836,Ford,Bronco,Gray
+42,LMN-7717,Toyota,Highlander,Silver
+43,MNO-9926,Honda,Passport,Black
+44,NOP-6615,Nissan,Pathfinder,White
+45,OPQ-5525,Chevrolet,Blazer,Red
+46,PQR-2206,Hyundai,Venue,Blue
+47,QRS-1195,Kia,EV6,Gray
+48,RST-8837,Tesla,Cybertruck,Silver
+49,STU-7718,BMW,M3,Black
+50,TUV-9927,Audi,S4,White
+51,UVW-6616,Ford,Edge,Blue
+52,VWX-5526,Toyota,4Runner,Gray
+53,WXY-2207,Honda,Pilot,Black
+54,XYZ-1196,Nissan,Kicks,Silver
+55,YZA-8838,Chevrolet,Trax,Red
+56,ZAB-7719,Hyundai,Palisade,White
+57,ABC-9928,Kia,Telluride,Black
+58,BCD-6617,Tesla,Model 3,Blue
+59,CDE-5527,BMW,740i,Gray
+60,DEF-2208,Audi,A3,Silver
+61,EFG-1197,Ford,Ranger,Black
+62,FGH-8839,Toyota,Tacoma,Red
+63,GHI-7720,Honda,Ridgeline,White
+64,HIJ-9929,Nissan,Frontier,Blue
+65,IJK-6618,Chevrolet,Colorado,Gray
+66,JKL-5528,Hyundai,Santa Fe,Black
+67,KLM-2209,Kia,Seltos,Silver
+68,LMN-1198,Tesla,Model Y,White
+69,MNO-8840,BMW,X1,Blue
+70,NOP-7721,Audi,Q3,Gray
+71,OPQ-9930,Ford,F-150,Black
+72,PQR-6619,Toyota,Tundra,Red
+73,QRS-5529,Honda,Insight,Silver
+74,RST-2210,Nissan,Versa,Blue
+75,STU-1199,Chevrolet,Spark,White
+76,TUV-8841,Hyundai,Ioniq,Gray
+77,UVW-7722,Kia,Niro,Black
+78,VWX-9931,Tesla,Model S,Blue
+79,WXY-6620,BMW,330e,Silver
+80,XYZ-5530,Audi,A5,White
+81,YZA-2211,Ford,Explorer,Black
+82,ZAB-1200,Toyota,Avalon,Blue
+83,ABC-8842,Honda,Odyssey,Gray
+84,BCD-7723,Nissan,Armada,White
+85,CDE-9932,Chevrolet,Suburban,Black
+86,DEF-6621,Hyundai,Elantra GT,Red
+87,EFG-5531,Kia,Rio,Silver
+88,FGH-2212,Tesla,Model 3,White
+89,GHI-1201,BMW,Z4,Blue
+90,HIJ-8843,Audi,TT,Gray
+91,IJK-7724,Ford,Maverick,Black
+92,JKL-9933,Toyota,C-HR,Silver
+93,KLM-6622,Honda,HR-V,Blue
+94,LMN-5532,Nissan,Juke,White
+95,MNO-2213,Chevrolet,Equinox,Gray
+96,NOP-1202,Hyundai,Accent,Red
+97,OPQ-8844,Kia,K5,Black
+98,PQR-7725,Tesla,Model X,Silver
+99,QRS-9934,BMW,M5,Blue
+100,RST-6623,Audi,S6,White
