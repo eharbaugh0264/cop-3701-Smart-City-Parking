@@ -1,0 +1,34 @@
+CREATE TABLE IF NOT EXISTS vehicle (
+    VehicleID NUMBER PRIMARY KEY,
+    LicensePlate VARCHAR2(9) NOT NULL,
+    Make VARCHAR2(100),
+    Model VARCHAR2(100),
+    Color VARCHAR2(100)
+);
+CREATE TABLE IF NOT EXISTS parking_permit (
+    VehicleID NUMBER NOT NULL,
+    PermitNumber NUMBER NOT NULL,
+    ExpirationDate VARCHAR2(100),
+    PermitType VARCHAR2(100),
+    PRIMARY KEY (VehicleID, PermitNumber),
+    FOREIGN KEY (VehicleID) REFERENCES VEHICLE(VehicleID)
+);
+CREATE TABLE IF NOT EXISTS parking_spot (
+    SpotID NUMBER PRIMARY KEY,
+    Location VARCHAR2(100) NOT NULL
+);
+CREATE TABLE IF NOT EXISTS parking_event (
+    EventID        NUMBER PRIMARY KEY,
+    VehicleID      NUMBER NOT NULL,
+    SpotID         NUMBER NOT NULL,
+    StartTime      VARCHAR2(100) NOT NULL,
+    EndTime        VARCHAR2(100),
+    FOREIGN KEY (VehicleID) REFERENCES VEHICLE(VehicleID),
+    FOREIGN KEY (SpotID) REFERENCES PARKING_SPOT(SpotID)
+);
+CREATE TABLE IF NOT EXISTS sensor (
+    SensorID       NUMBER PRIMARY KEY,
+    SpotID         NUMBER UNIQUE NOT NULL,
+    Status         VARCHAR2(100),
+    FOREIGN KEY (SpotID) REFERENCES PARKING_SPOT(SpotID)
+);
