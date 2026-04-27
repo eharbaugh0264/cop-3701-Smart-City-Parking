@@ -8,7 +8,7 @@ Users:
 This database will be accessed and queried for the city to more effectively manage parking demand in existing and future projects.
 
 Data Sources:
-The primary source of data is from the IoT based Smart Parking System dataset collected on ThingSpeak from a system of IR sensor and ESP32 board provided by Suwesh Sah.
+The primary source of data is based on the format of the IoT based Smart Parking System dataset collected on ThingSpeak from a system of IR sensor and ESP32 board provided by Suwesh Sah. It was however populated with fabricated data
 
 Final ER Diagram:
 
