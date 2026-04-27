@@ -9,8 +9,3 @@ This database will be accessed and queried for the city to more effectively mana
 
 Data Sources:
 The primary source of data is based on the format of the IoT based Smart Parking System dataset collected on ThingSpeak from a system of IR sensor and ESP32 board provided by Suwesh Sah. It was however populated with fabricated data
-
-Final ER Diagram:
-
-
-<img width="692" height="881" alt="FinalERDiagram" src="https://github.com/user-attachments/assets/e78fa58a-8a22-4239-ad4f-d12e2b86ddeb" />
