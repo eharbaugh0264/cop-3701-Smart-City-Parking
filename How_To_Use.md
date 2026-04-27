@@ -5,10 +5,12 @@ Prerequisites:
 
 -Make sure the imports are installed into your local machine of choice streamlit, oracledb, and pandas
 
+Setup Order:
+-Create the database using the create_db.sql file
+-Modify in dataload.py the DB_User, DB_Password, and LIB_DIR variables to match your client and login credentials
 
-
-App.py Launch:
--Run “streamlit python app.py” in your local environment
+Run Instructions
+-Run “streamlit python app.py” in your local environment, or similarly  "py -m streamlit run *app.py" replacing the * with an absolute file path
 
 -once the streamlit tab opens in your browser copy and paste your database username and password and press enter
 
